@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q={jabalpur}&appid={d0fe59b10061a76d44cdbdf8d2187583}
